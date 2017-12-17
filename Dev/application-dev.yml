@@ -1,2 +1,5 @@
 test:
   name: testing
+logging:
+  level:
+    debug: testing logging
